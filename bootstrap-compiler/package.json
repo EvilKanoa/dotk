@@ -1,0 +1,12 @@
+{
+  "name": "dotk-bootstrap-compiler",
+  "version": "0.0.1",
+  "description": "Bootstrap compiler written in Javascript for the dotk language",
+  "main": "index.js",
+  "author": "EvilKanoa <kanoa@kanoa.ca>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jacob": "^1.0.5"
+  }
+}
